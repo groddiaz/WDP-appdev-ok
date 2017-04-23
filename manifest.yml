@@ -6,5 +6,3 @@ applications:
   name: WDP-appdev-ok
   host: WDP-appdev-ok
   disk_quota: 1024M
-  services:
-  - AD-Greatoutdoors-DB
